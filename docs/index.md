@@ -1,3 +1,4 @@
-# 26 Brains
-
-Back in business.
+- Software Development
+- Test Driven Development
+- Technical Design
+- System Integration
