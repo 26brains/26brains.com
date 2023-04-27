@@ -1,4 +1,4 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: 26 Brains
